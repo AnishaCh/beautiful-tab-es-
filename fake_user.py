@@ -1,6 +1,9 @@
 import random
+
 import sys
+
 from faker import Faker
+
 from bootstrap_table import db, User
 
 

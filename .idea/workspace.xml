@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0dab0a8-ee1a-4765-999f-022d70ac0c0a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ajax_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_table.html" afterDir="false" />
+    <list default="true" id="f0dab0a8-ee1a-4765-999f-022d70ac0c0a" name="Changes" comment="task :- minor changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic_table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/server_table.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +57,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639584691161</updated>
-      <workItem from="1639584693079" duration="311000" />
+      <workItem from="1639584693079" duration="477000" />
     </task>
+    <task id="LOCAL-00001" summary="task :- minor changes">
+      <created>1639585046618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639585046618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task :- minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="task :- minor changes" />
   </component>
 </project>
